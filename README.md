@@ -34,8 +34,10 @@ You can find more about my work [Medium blog](https://medium.com/@nishamaurya749
 I have the amazing ability to quickly learn new things, and I love making people laugh and creating beautiful paintings!
 
 #### GitHub Statistics
+<img src = "https://github-readme-stats.vercel.app/api?username=98Nishi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=98Nishi&layout=compact&langs_count=6&hide=html,css)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=98Nishi&show_icons=true&count_private=true&hide=stars)
+
 
 #### GitHub Contributions
 ![Total Contributions](https://img.shields.io/github/commit-activity/w/98Nishi/98Nishi?label=Total%20Contributions)
