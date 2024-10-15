@@ -1,4 +1,4 @@
-### Hi, I'm Nisha! 👋
+### Hi, I'm Nisha 👋
 
 I'm a passionate Full Stack Web Developer currently in the learning phase. Welcome to my GitHub profile!
 
